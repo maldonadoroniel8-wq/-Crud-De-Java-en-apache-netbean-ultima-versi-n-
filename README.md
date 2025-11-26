@@ -1,2 +1,3 @@
 # -Crud-De-Java-en-apache-netbean-ultima-versi-n-
 Este proyecto es un sistema CRUD en Java (Apache NetBeans) que gestiona estudiantes y sus calificaciones. Incluye registro, edición y eliminación de datos, además de un módulo para guardar cuatro notas por estudiante y generar reportes. El sistema posee login con validación, contraseña mínima de 8 caracteres y bloqueo de 1 minuto tras tres intentos
+alguien que me ayude hay 
